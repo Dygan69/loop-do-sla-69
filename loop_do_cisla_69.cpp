@@ -28,6 +28,7 @@ int main(){
             }break;
             default:{
                 cout<<"\n Try again\n ";
+                cin>>pokracovani;
                 reset=1;
             }
         }
